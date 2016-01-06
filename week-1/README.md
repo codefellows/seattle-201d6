@@ -39,6 +39,7 @@
 4. Separation of Concerns
 
 +++BREAK+++
+
 1. Control Flow
 2. Logical Operators & Counters
 3. Look at today's lab assignment
