@@ -3,6 +3,7 @@
 **Instructors & TA's**
 
 *Instructor*: Sam Hamm
+
 *Assistant Instructor*: Paul Laskowski
 
 *TA's*

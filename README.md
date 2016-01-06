@@ -26,7 +26,7 @@ Week 4     | Project Week!
 * Monday through Friday, 9:00a-noon
 * Lunch 12pm-1pm
 
-**Lab**:
+**Lab** (meets in the 1st floor co-working space):
 * Monday through Friday, 1:00p-5:00p
 
 **Homework**: There are reading and coding assignments due every day.
