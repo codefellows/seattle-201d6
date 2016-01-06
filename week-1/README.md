@@ -10,7 +10,7 @@
 - Benton Green *'Self Proclaimed Wizard'*
 - Kris Skelton *'That's Skelton, not Skeleton'*
 - Bella Organ *'Totes'*
-- Dan Schwartz *'The Man'*
+- Dan Schwartz *'O Danny Boy, Oh Boy Oh Boy'*
 
 ##Week 1 - Daily Plans
 ###Class 01 (Monday)
@@ -41,6 +41,7 @@
 +++BREAK+++
 1. Control Flow
 2. Logical Operators & Counters
+3. Look at today's lab assignment
 
 ###Class 04 (Thursday)
 1. Lindy visits to talk about what's next
