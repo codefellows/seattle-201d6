@@ -17,12 +17,10 @@ Week 2     | Object-Oriented Programming and the DOM
 Week 3     | Interactive Web Design
 Week 4     | Project Week!
 
-Check out the full [Table of Contents](SUMMARY.md).
-
 ## Logistics
 **Location**: Code Fellows Seattle Campus
 
-**Room**: In "The Easy" classroom on the Basement level
+**Room**: In "The Hardy" classroom on the Basement level
 
 **Class**:
 * Monday through Friday, 9:00a-noon

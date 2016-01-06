@@ -3,11 +3,13 @@
 **Instructors & TA's**
 
 *Instructor*: Sam Hamm
+*Assistant Instructor*: Paul Laskowski
 
 *TA's*
 - Benton Green *'Self Proclaimed Wizard'*
-- Kris Skelton *'Skelton, not Skeleton'*
+- Kris Skelton *'That's Skelton, not Skeleton'*
 - Bella Organ *'Totes'*
+- Dan Schwartz *'The Man'*
 
 ##Week 1 - Daily Plans
 ###Class 01 (Monday)
@@ -34,12 +36,10 @@
 2. Code Review
 3. Github Branches & PR's
 4. Separation of Concerns
-5. README.md / Documentation
 
 +++BREAK+++
 1. Control Flow
 2. Logical Operators & Counters
-
 
 ###Class 04 (Thursday)
 1. Lindy visits to talk about what's next
@@ -48,9 +48,9 @@
 
 +++BREAK+++
 
-3. HTML Links
-4. Introduction to CSS
-5. Pair Programming
+1. HTML Links
+2. Introduction to CSS
+3. Pair Programming Process
 
 ###Class 05 (Friday)
 1. Code Review

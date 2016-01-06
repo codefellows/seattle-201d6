@@ -5,11 +5,7 @@
 ### Git Commands:
     git status              Provides a detailed description of current state in working directory
 
-    git checkout -- <file>  Remove all changes to file to the point of the last commit.
-
     git add <file>          Include file in staged/tracked status of working directory
-
-    git reset HEAD <file>   Remove file from staged/tracked status of working directory
 
     git commit -m ''        Snapshot the tracked changes in current working directory; with message
 
