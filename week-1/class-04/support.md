@@ -19,15 +19,11 @@ Your pair will extend and refine each other's games today. The person whose game
 6. Start working on the code!
 
 ###Make a Pull Request
-1. Once everything is finished, and you have done the last edits and pushed them to GitHub, it's time to send the edited code from the branch you've been working on to Master. We do this with a GitHub feature called a pull request.
-2. From the home page of the repository on GitHub, hit the green button that says 'Create pull request'
+1. Once everything is finished, and you have done the last edits and pushed them to GitHub, it's time to send the edited code from the branch you've been working on to master branch of the Navigator's repo. We do this with a GitHub feature called a pull request.
+2. From the home page of the forked (driver's) repository on GitHub, hit the green button that says 'Create pull request'
 3. Follow the remaining steps as described onscreen and as shown here: https://help.github.com/articles/using-pull-requests
-4. These instructions are deliberately vague, to give you practice in reading through instructions and getting guidance from documentation.
-5. Once the Pull Request has been created, you will accept the pull request by merging/closing it. After that, in the terminal on your laptop, while in the game directory, enter the command 'git pull origin master' to retrieve the modified code from GitHub.
-6. Next create a new branch from Master for today's work.
-    git checkout master   (To move to Master Branch)
-    git checkout -b thursday
-    Extend and Refine
+4. These instructions are deliberately vague, to give you practice in reading through instructions and getting guidance from documentation. But make sure the PR to the master of the navigator's repo.
+5. Once the Pull Request has been created, the navigator will accept the pull request by merging/closing it on their repo. After that, in the terminal on the navigators laptop, while in their game directory, enter the command 'git pull origin master' to retrieve the modified code from GitHub.
 
 You'll be doing the following things to your game. After each bit of work is completed, be sure to do an add-commit-push cycle to place the code on GitHub and preserve a versioned history of your work.
 
