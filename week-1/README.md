@@ -44,16 +44,21 @@
 2. Logical Operators & Counters
 3. Look at today's lab assignment
 
+
+
 ###Class 04 (Thursday)
-1. Lindy visits to talk about what's next
-2. Code Review
+1. Lindy & Brandy & Karinne visit to talk about what's next (301, etc.)
+2. Review of JS book Ch 2-4
 3. Functions
 
 +++BREAK+++
 
-1. HTML Links
+1. HTML Lists & Links
 2. Introduction to CSS
 3. Pair Programming Process
+
+
+
 
 ###Class 05 (Friday)
 1. Code Review
