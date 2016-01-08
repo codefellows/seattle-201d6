@@ -1,5 +1,9 @@
-p {
-font-family: Arial;
+.right {
+  color: green;
+}
+
+.wrong {
+  color: red;
 }
 
 /*This is a comment*/

@@ -13,7 +13,6 @@ Today will be your second exercise in pair programming. You will be assigned to 
 
 ## User Stories (MVP)
  - As a developer, I want to apply D.R.Y. to my code, so that I do not have duplicate and unnecessary code.
- - As a developer, I want to include images in my game, when the user guesses correctly, so that the game is more informative and fun.
  - As a developer, I want to color code the answers on-screen, so my user can visually see what answers were right or wrong.
  - As a developer, I want to host my game online so that anyone can play!!
 
@@ -25,6 +24,7 @@ Today will be your second exercise in pair programming. You will be assigned to 
 
 ## User Stories (Stretch)
  - As a developer, I want my site to look more professional, so my users will enjoy their experience (hint: Add more CSS styling to make more pretty)
+ - As a developer, I want to include images in my game, when the user guesses correctly, so that the game is more informative and fun.
 
 ## Helpful Resources
 - [**Supporting Information**](support.md)
