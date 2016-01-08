@@ -44,8 +44,6 @@
 2. Logical Operators & Counters
 3. Look at today's lab assignment
 
-
-
 ###Class 04 (Thursday)
 1. Lindy & Brandy & Karinne visit to talk about what's next (301, etc.)
 2. Review of JS book Ch 2-4
@@ -57,15 +55,16 @@
 2. Introduction to CSS
 3. Pair Programming Process
 
-
-
-
 ###Class 05 (Friday)
-1. Code Review
-2. Arrays
-3. Color
+1. (9:00) Q&A + look ahead to next week
+2. (9:15) Arrays
+3. (9:30) Review of JS book Ch.4 and first part of Ch. 3
+4. (10:00) Introduction to CSS
+
 
 +++BREAK+++
 
-4. Images
-5. Deployment
+1. (10:55) HTML Lists & Links
+2. (11:05) Images
+3. (11:15) Review today's assignment & code demo
+4. (11:45) Set pairs, and discuss deployment
