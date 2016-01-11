@@ -84,6 +84,3 @@ Pike Place Market
 
 ## User Stories (Stretch)
  - As a developer, I want to present the store data in a table format on the webpage, so each store's data is easier to represent and understand
-
-## Helpful Resources
-[Assignment Assets](week-2/assets)
