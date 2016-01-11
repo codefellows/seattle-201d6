@@ -26,10 +26,11 @@ The problem: how to manage providing freshly-roasted and still-warm beans to her
 Jo knows that you have been studying web development and has asked you to help with the website for her business. For now she wants two pages: one to serve as the public-facing page that visitors and customers will see at campfirecoffee.com, and the other to serve as an internal data page that will be used for managing the business.
 
 For the public-facing page, Jo has only a couple of specific requests, but otherwise will let you handle all of the design (for now). Here's what she wants:
-- a particular image of a campfire that she likes
+- a particular image of a campfire that she likes (to be provided later)
 - listing of locations and kiosk hours (6:00am to 9:00pm, 7 days a week)
 - a color palette that reflects the experience of going camping
-- more details coming later, she'll get them to you soon, she promises
+- custom font via Google Fonts
+- more details coming later, she'll get them to you soon, she promises (seems like it is always coming "tomorrow")
 
 What Jo wants on the data page (which is by far a bigger priority at the moment, so build it first) is the ability to forecast the expected customers per hour at each location, and use those numbers to plan the amount of warm beans to be delivered to each kiosk. Her market analysis has given some information as a starting point: the expected minimum and maximum number of customers per hour, and the amount of beans purchased by each.
 
