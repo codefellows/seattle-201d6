@@ -70,7 +70,7 @@ Pike Place Market
 
 ## User Stories (MVP)
  - As a user, I want a webpage that displays individual store data for Campfire Coffee, so that I can be informed about how to run my business
- - As a developer, I want to use object oriented programming to build this site, so that the site will be more effective and the code will be easier to read and understand
+ - As a developer, I want to use object oriented programming to build this site, so that the site will be more effective and the code will be easier to read and understand.
  - As a user, I want a functional, well organized webpage that displays my data in a user friendly fashion;
 - As a user, I want my data broken out in a logical fashion so that I can make more informed decision about my inventory supply;
 - As a user, I want my data compiled so that I can see my product needs as business as a whole

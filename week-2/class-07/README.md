@@ -24,5 +24,4 @@ We will also be replacing the lists of data for each store, and implementing a t
  - Working on a non-master branch for the day, with regular commit history
 
 ## User Stories (Stretch)
- - As a user, I want to be able to add a new store to my webpage, so that I have the ability to work independently of my developer
-  - This is a LARGE HUGE BIG stretch goal. There will be Forms and Events involved, which you are welcome to read ahead on and try to implement. We're not going to cover these in class until Thursday.
+ - As a user, I want to be able to add a new store to my webpage, so that I have the ability to work independently of my developer. This is a LARGE HUGE BIG stretch goal. There will be Forms and Events involved, which you are welcome to read ahead on and try to implement. We're not going to cover these in class until Thursday.
