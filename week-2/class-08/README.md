@@ -36,6 +36,7 @@ Today will be a day of refining the business-side data page and building out mor
   * As a customer, I want...
 
 ---
+* As a business owner, I want my site to link to some other local camping-related resources, so that my users have additional information and will see my site as a resource for their camping needs.
 * As a business owner, I want an attractive public-facing site that helps build the brand for my company with camping/forest themed colors and images.
 * As a business owner, I want a specific set of images that I've chosen to be featured on the site.
 * As a business owner, I want to begin selling merchandise such as mugs and clothing in addition to coffee, both in retail locations and on the website, but I need assistance with the design aspects.
@@ -44,7 +45,6 @@ Today will be a day of refining the business-side data page and building out mor
 * As a business owner, I want the business-side of my site to provide me with accurate sales projections so that I can manage inventory.
 * As a business owner, I want a webpage that displays individual store data for Campfire Coffee, so that I can be informed about how to run my business
 * As a business owner, I want the business-side of my site to provide me with accurate sales projections so that I can manage staffing.
-* As a business owner, I want my site to link to some other local camping-related resources, so that my users have additional information and will see my site as a resource for their camping needs.
 
 ---
 * As a developer, I want to use object oriented programming to build this site, so that the site will be more effective and the code will be easier to read and understand.

@@ -11,19 +11,28 @@
     <h1>Question 2: Does Sam have any dogs?</h1>
     <h2 id="resultTwo"></p>
     <h1>Question 3: Is Sam's wife named Victoria?</h1>
-    <h2 id="resultThree"></p>
+    <h2 id="resultThree"></h2>
 
-    <!-- <ul>Sam's dogs
+    <ul id="dogs">Sam's dogs
       <li>Parker</li>
       <li>Demi</li>
     </ul>
 
-    <ol>Sam's cats
+    <ol id="cats">Sam's cats
       <li>BuddyCat</li>
       <li>Alistair</li>
       <li>Trillian</li>
-    </ol> -->
+    </ol>
 
-    <script src="game.js"></script>
+    <button>One</button>
+    <button>Two</button>
+
+    <!-- <script src="game.js"></script> -->
+    <script>
+    function listfuckery() {
+      dogs.firstChild.nextSibling.nextSibling.textContent = "-- a lazy worthless dog";
+      dogs.firstChild.nextSibling.nextSibling.nextSibling.nextSibling.textContent = '-- border collie deluxe';
+    }
+ </script>
   </body>
 </html>
