@@ -16,13 +16,13 @@
 *BREAK*
 
 1. Pick up any leftover material from the first half of class re: CSS & Layout
-* http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
-* http://www.csszengarden.com/
-* http://www.w3schools.com/css/css_table.asp
-* http://www.mybridge.co/view/5359
-* https://css-tricks.com/box-sizing/
-* Textbook resources
-* Designing & wireframing
+  * http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
+  * http://www.csszengarden.com/
+  * http://www.w3schools.com/css/css_table.asp
+  * http://www.mybridge.co/view/5359
+  * https://css-tricks.com/box-sizing/
+  * Textbook resources
+  * Designing & wireframing
 2. User stories: a deeper dive into using them and interpreting them
 3. Visitation of any topics from the reading that we've not covered in class
 
@@ -30,11 +30,12 @@
 Today will be a day of refining the business-side data page and building out more of the public-facing page! Your client has changed her mind on a few things (get used to it!), well... actually a lot of things... so that drops more work on your plate. All of the user stories for the week to this point are now collected and updated to reflect the current state of development of the site
 
 ## User Stories (MVP)
-* As a business owner, I want...
-* As a developer, I want...
-* As a customer, I want...
 
+  * As a business owner, I want...
+  * As a developer, I want...
+  * As a customer, I want...
 
+---
 * As a business owner, I want an attractive public-facing site that helps build the brand for my company with camping/forest themed colors and images.
 * As a business owner, I want a specific set of images that I've chosen to be featured on the site.
 * As a business owner, I want to begin selling merchandise such as mugs and clothing in addition to coffee, both in retail locations and on the website, but I need assistance with the design aspects.
@@ -45,7 +46,7 @@ Today will be a day of refining the business-side data page and building out mor
 * As a business owner, I want the business-side of my site to provide me with accurate sales projections so that I can manage staffing.
 * As a business owner, I want my site to link to some other local camping-related resources, so that my users have additional information and will see my site as a resource for their camping needs.
 
-
+---
 * As a developer, I want to use object oriented programming to build this site, so that the site will be more effective and the code will be easier to read and understand.
 * As a developer, I want to implement a constructor function, so that I can reuse code and eliminate much of the duplication in my JavaScript
 * As a developer, I want to utilize CSS and images to develop an attractive brand for the company, including a logo and a color scheme that can be utilized in both the website and on company-themed merchandise.
@@ -53,7 +54,7 @@ Today will be a day of refining the business-side data page and building out mor
 * As a developer, I want to present the store data in a table format on the webpage, so each store's data is easier to represent and understand
 * As a developer, I want to provide Jo with some basic placeholder text ([lorem ipsum](http://www.lipsum.com)), so that she can see her site populated without having to write content.
 
-
+---
 * As a customer, I want to visit a site that quickly and clearly gives me the information that I seek about a business.
 * As a customer, I want to know about the history of a business.
 * As a customer, I want to know about how a business promotes sustainability.
@@ -77,4 +78,4 @@ Today will be a day of refining the business-side data page and building out mor
 
 ## Helpful Resources
 
-[Assignment Assets](week-2/assets)
+[Assignment Assets](../assets)
