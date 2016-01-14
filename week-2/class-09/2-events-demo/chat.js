@@ -6,7 +6,7 @@ var Comment  = function(userName, text) {
 
 Comment.prototype.render = function() {
   var liEl = document.createElement('li');
-  liEl.innerHTML = '<img width="100px" src="img/' + this.userName + '.jpg"> <b>' + this.userName + ': </b><em>' + this.text + '</em></p>';
+  liEl.innerHTML = '<img width="100px" src="img/' + this.userName + '.jpg"> <b>' + this.userName + ': </b><em>' + this.text + '</em>';
   return liEl;
 };
 
@@ -28,9 +28,9 @@ var renderAllComments = function() {
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
 // This function handles the submission of comments
-var handleCommentSubmit = function(event) {
+function handleCommentSubmit(event) {
   console.log(event);
-  event.preventDefault();
+  event.preventDefault(); //gotta have it. prevents page reload
 
    if (!event.target.says.value || !event.target.who.value) {
     return alert('Fields cannot be empty!');
@@ -54,7 +54,7 @@ var handleCommentSubmit = function(event) {
 };
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
-// Event listener for comment submission button
+// Event listener for comment submission form
 chatForm.addEventListener('submit', handleCommentSubmit);
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++

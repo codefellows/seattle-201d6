@@ -1,48 +1,43 @@
 # Week 2, Class 9
 
-# Reading Reminder
-* ["HTML5 Layout" (HTML & CSS, Ch. 17)]()
-* ["Boxes" (HTML & CSS, Ch. 13)]()
-
 # Today's Plan
 
 1. Announcements
-  - MLK Day
-  - Project Week Stuff
-  - Google Fonts
+  * MLK Day
+  * Project Week Stuff
+  * Google Fonts
 2. Discussion / Code Review on Campfire Coffee
-  - Look at a few
-  - The question of tables
+  * Look at a few student projects
+  * The question of tables and other UI considerations
 3. Skeleton demo
 
 --BREAK--
 
 1. Forms & Events demo
-2. Go over today's assignment & announce pairs
+2. Go over today's assignment & set pairs
 
 # Assignment for Class
-Today will be a pair programming assignment.
+Today in lab you will be doing some work in a pair, and some work individually. In the paired work, you will be adding an input form to your partner's data page. In the individual work, you will be working with your own data page to wire up the form with JavaScript and use it to update your table data.
+
+**Note:** For the pair programming piece, please refer back to our previous pair programming work from last week for more details on how to get your partner's code set up on your machine (i.e. the fork, clone, and PR process).
 
 ## User Stories (MVP)
- - As a user, I want my website to have it's own home page, separate from my sales data, so that I can begin to market and sell merchandise online
- - As a user, I want my salmon logo (see assets) and slogan *"Salmon cookies made with fish, salmon cookies are delish!"* in the header if my main page, so that my customers can identify me
- - As a user, I want my site to look nice and have photos which are relevant to my merchandise
- - As a user, I want my site to link to some other local salmon-related events, so that my users have additional supporting information and will see my site as a resource for all their salmon needs
- - As a developer, I need to provide Pat with some basic placeholder text ([lorem ipsum](http://www.lipsum.com)), so that he can see his site populated without having to write content
+  * REMINDER: All of the user stories from yesterday remain our primary objectives
+  * (Pair programming) As a developer, I want to implement a form on the website, so Jo will have the ability to enter new stores without a developer to help her.
+  * (Individual) As a developer, I want to implement event management on my page, so that my form will listen and react to 'submit' events. NOTE: Thou Shalt Not Use 'onClick()'
+  * As a developer, I want to present the store data in a table format on the webpage, so each store's data is easier to represent and understand
 
 ## Technical Requirements
- - Move all sales data to a new file, sales.html
- - Redesign index.html to be a home page, which markets the stores and its merchandise
- - Good and proper use of HTML 5
- - Home page has been professionally styled, using the styleguide and a few specific CSS highlights that make things pop
- - Photos from the assets folder (see Helpful Resources) have been used to enhance and style the main page
- - Local events and Store specifics (phone, address, etc) have been listed on the page
- - Good use of Lorem Ipsum to provide placeholder content for the site
+  * Table has been implemented and lists are no longer used to represent store data
+  * Working on a non-master branch for the day, with regular commit history
+  * Form properly implemented in the html
+  * Events have been wired up with *event listeners* and *event handlers* and are rendering new store data to the page
 
 ## User Stories (Stretch)
- - As a developer, I want to ensure that this site looks as professional as possible, using CSS, so I can use this as a portfolio piece
+  * As a developer, I want the business owner to be able to update data for kiosks that are already presented on the page, in the place where they are already listed.
 
 ## Helpful Resources
-[Problem Domain Document](week-2/support.md)
+[Problem Domain Article 1](https://github.com/codefellows/domain_modeling#domain-modeling)
+[Problem Domain Article 2](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming/)
 
-[Assignment Assets](week-2/assets)
+[Assignment Assets](../assets)
