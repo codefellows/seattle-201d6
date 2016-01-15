@@ -1,13 +1,8 @@
 # Week 2, Class 10
 
-# Reading Reminder
+# Summary of Reading From the Week
 * ["Layout" (HTML & CSS, Ch. 15)]()
 * ["Lists, Tables & Forms" (HTML & CSS, Ch. 14)]()
-
-CSS TRANSITIONS
-FLEXBOX FROGGY
-CSS ANIMATIONS
-TWITTER
 
 # Assignment for Class
 It's time to get all of the finishing touches on the Cookie Stand project. So, from here, you want to work on getting all of the pieces finished and refined. Here's the definition of your MVP (Minimum Viable Product):
