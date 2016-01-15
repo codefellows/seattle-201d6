@@ -34,6 +34,7 @@ The site has two pages (plus any supporting JS and CSS files, and a README that 
 
   * index.html - This is the public-facing page. It should contain all of the individual pieces that Jo asked for.
   * data.html - This page provides a table (tables?) of useful information to the business owner. The page should receive input from a form and create new data as a result.
+  * README.md - This is an important part of creating a professionally-presented project. Be sure to list your pair programming partner(s) and anyone else who you worked with on the project. Take a look at this [Stack Overflow article on how to write a good README](http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme)
 
 ## Deploy!
 It's time to deploy the living site! When all work is finished and the master branch has merged in all edits to this point, and is also in sync with GitHub, from the master branch `git checkout -b gh-pages` to create a deployment branch, and push this branch to GitHub. Once you do that, you're live!
