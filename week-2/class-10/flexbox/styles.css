@@ -1,0 +1,18 @@
+main {
+  /*display: flex;*/
+}
+
+nav > ul {
+  /*display: flex;*/
+  /*justify-content: space-between;*/
+}
+li {
+  /*list-style: none;*/
+}
+
+header > section {
+  /*display: flex;*/
+  /*flex-direction: row-reverse;*/
+  /*justify-content: space-between;*/
+  /*align-items: center;*/
+}
