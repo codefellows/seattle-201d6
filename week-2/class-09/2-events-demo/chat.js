@@ -12,17 +12,43 @@ Comment.prototype.render = function() {
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Just setting up some variables for DOM access
-var comments = document.getElementById('comments');
+var chatList = document.getElementById('chat-list');
 var chatForm = document.getElementById('chat-form');
-var clearComments = document.getElementById('clear-comments');
-var commentData = [];
+var clearChatList = document.getElementById('clear-chat-list');
+var allComments = [];
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
-// This is a global function to render all of the new instances
+// Each comment is an instance of the Comment constructor.
+// This is a global function to render all of them.
+//
+// Each time a new comment is created...
+//   what this actually does is clear and then re-display all comments,
+//   even though it looks like we are just adding a comment.
+//
+// The parameter 'unicorn' below is just a placeholder that is used in the
+//   forEach() method that is built in to all arrays, kind of like the
+//   built-in .length property of arrays that we use in 'for' loops.
+//
+// This is your first taste of "functional programming", in which we use
+//   functions as parameters/arguments to other functions. The function
+//   being passed in is a "callback function". It is basically the same
+//   thing we do in an event listener when we specify what function is to be
+//   called when an event is triggered.
+//
+// forEach() is the functional programming way to do a 'for' loop.
+//
+// Remember that each element of the 'allComments' array is a Comment instance,
+//   so that means every one of them has the render() method available to it,
+//   the method that we set with Comment.prototype.render above.
+//
+// Thus, 'unicorn' is specified as a parameter to the callback function and
+//   serves as a name that stands in for each element of the array, just like
+//   you've used arrayName[i] in the past.
+//
 var renderAllComments = function() {
-  comments.innerHTML = '';
-  commentData.forEach(function(comment) {
-    comments.appendChild(comment.render());
+  chatList.innerHTML = '';
+  allComments.forEach(function(unicorn) {
+    chatList.appendChild(unicorn.render());
   });
 };
 
@@ -49,7 +75,7 @@ function handleCommentSubmit(event) {
    event.target.who.value = null;
    event.target.says.value = null;
 
-   commentData.push(newComment);
+   allComments.push(newComment);
    renderAllComments();
 };
 
@@ -59,8 +85,8 @@ chatForm.addEventListener('submit', handleCommentSubmit);
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Event listener for the 'Clear all comments' button
-clearComments.addEventListener('click', function() {
-  console.log('You just cleared the comments!');
-  comments.innerHTML = '';
-  commentData = [];
+clearChatList.addEventListener('click', function() {
+  console.log('You just cleared the chat list!');
+  chatList.innerHTML = '';
+  allComments = [];
 });
