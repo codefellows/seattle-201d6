@@ -26,7 +26,6 @@
 
 +++BREAK+++
 
-
 1. Go over the start to this week's project
 
 ## New week, new project!
@@ -37,10 +36,10 @@ Since catalogs are expensive to print and distribute, the products cost money to
 
 To make this market analysis maximally effective, BusMall wants you to build an app that displays potential products to individuals focus groups (three products at a time, side-by-side-by-side, so you'll need to manage the size and the aspect ratio of the images and perhaps edit them a bit), then has the group members choose the one they would be most likely to purchase, and then store, calculate, and visually display the resulting data.
 
-To keep the product selection process as untainted as possible, you have been instructed to not allow any results to be shown to the user until there have been a total of 15 selections made. Also, the marketing research team has asked that you not automatically display the results after 15 clicks, but instead display a button that will give the user the choice of seeing results. Yes, the marketing research team is doing a human behavior study on the side. Sneaky.
+To keep the product selection process as untainted as possible, you have been instructed to not allow any results to be shown to the user until there have been a total of 15 selections made. Also, the marketing research team has asked that you not automatically display the results after 15 clicks, but
 
 You are also responsible for the look and feel of the app, so don't forget a custom font, color palette, layout with semantic HTML (and maybe a Skeleton or flexbox approach to layout) and so on.
 
 # User Stories
 
-Part of your assignment today is to write your own user stories. Be sure to consider the multiple roles involved: the marketing research team, the developer, and the individual focus group participants who will be using the application. DO THIS STEP FIRST. The commit logs in your repo will have a first couple of commits for the scaffolding process, but next you should have a 'user stories' commit that is in place before any code is written.
+Part of your assignment today is to write your own user stories. Be sure to consider the multiple roles involved: the marketing research team, the developer, and the focus group participant who will be using the application. DO THIS STEP FIRST. The commit logs in your repo will have a first couple of commits for the scaffolding process, but next you should have a 'user stories' commit that is in place before any code is written.
