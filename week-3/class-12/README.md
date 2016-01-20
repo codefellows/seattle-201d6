@@ -38,7 +38,7 @@
   - Minified code
   - Looking at a sample chart
 
-## Today's task: dispay your results in a chart!
+## Today's task: display your results in a chart!
 
 Using ChartJS, display your vote totals in a bar chart. If you want to try some additional chart types, do so with some of your alternate data that you have calculated from your vote results. The size and look of your chart is up to you, just be sure to put it in the area beneath the three images.
 

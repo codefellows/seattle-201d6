@@ -2,12 +2,12 @@
 
 // benton = 'wizard';
 
-var taValues = [34 ,67, 94, 93];
+var taValues = [8 ,6, 2, 4];
 
 var kevin = [
   {
     value: taValues[0],
-    label: 'Bella',
+    label: 'Hambella',
     color: '#811BD6',
     highlight: '#811B33'
   },
@@ -44,3 +44,5 @@ var popularityChart = new Chart(context).PolarArea(kevin, {
     animateScale : true,
     scaleShowLabelBackdrop : true
 });
+
+popularityChart.scale.yLabels = ['a-hole', 'bozo', 'chump', 'meh', 'tolerable', 'good', 'awesome', 'amazesauce'];
