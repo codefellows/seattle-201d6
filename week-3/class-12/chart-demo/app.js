@@ -1,8 +1,8 @@
 // 'use strict';
 
-// benton = 'wizard';
+// benton = 'wizard'
 
-var taValues = [8 ,6, 2, 4];
+var taValues = [8 ,6, 7, 4];
 
 var kevin = [
   {
