@@ -12,7 +12,7 @@
 - Dan Schwartz
 
 ## Week 2 - Daily Plans
-### Class 13 (Wednessday)
+### Class 13 (Wednesday)
 1. Announcements
   - Reminder: We're getting closer to Project Week. Prep your pitches!
     * First project pitches will be TOMORROW during class
