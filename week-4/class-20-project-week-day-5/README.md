@@ -1,3 +1,16 @@
+# sea-201d5
+### Course repo for sea-201d5
+**Instructors & TA's**
+
+*Instructor*: Sam Hamm
+*Assistant Instructor*: Paul Laskowski
+
+*TA's*
+- Benton Green
+- Kris Skelton
+- Bella Organ
+- Dan Schwartz
+
 # Class 20 -  Project Week: Milestone 5
 ## Presentation Day
 
