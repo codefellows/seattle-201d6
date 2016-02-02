@@ -1,10 +1,10 @@
-# sea-201d5
-### Course repo for sea-201d5
+# seattle-201d6
+### Course repo for seattle-201d6
 **Instructors & TA's**
 
 *Instructor*: Sam Hamm
 
-*Assistant Instructor*: Paul Laskowski
+*Assistant Instructor*: Duncan Marsh
 
 *TA's*
 - Benton Green
