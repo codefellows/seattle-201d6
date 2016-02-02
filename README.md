@@ -1,6 +1,6 @@
 # Code 201: Foundations of Software Development
 
-Welcome to sea-201d5!
+Welcome to sea-201d6!
 
 # Introduction
 
@@ -14,7 +14,7 @@ Full Time  | Topic
 -----------|-----------------------------
 Week 1     | Introduction to Web Development
 Week 2     | Object-Oriented Programming and the DOM
-Week 3     | Interactive Web Design
+Week 3     | Interactive Web Design with Events and Libraries
 Week 4     | Project Week!
 
 ## Logistics
@@ -22,18 +22,19 @@ Week 4     | Project Week!
 
 **Room**: In "The Hardy" classroom on the Basement level
 
-**Class**:
-* Monday through Friday, 9:00a-noon
-* Lunch 12pm-1pm
-
 **Lab** (meets in the 1st floor co-working space):
-* Monday through Friday, 1:00p-5:00p
+* Monday through Friday, 8:00a-noon
+
+**Lunch 12pm-1pm**
+
+**Class**:
+* Monday through Friday, 1:00p-4:00p
 
 **Homework**: There are reading and coding assignments due every day.
 
 **Duration**: Monday through Friday for 4 weeks.
-* First class: January 4, 2016
-* Last class: January 29, 2016
+* First class: February 8, 2016
+* Last class: March 4, 2016
 
 ## Assignments
 

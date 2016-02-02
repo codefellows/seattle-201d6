@@ -1,15 +1,9 @@
-# Summary
+# Course Summary
 
-Week 1:
+## Week 1: Introduction to Web Development
 
-* [Toolbox, About Me, and Hello World](class-01)
-* [Extend the About Me, Add A Guessing Game](class-02)
-* Extend the Guessing Game with Control Flow
-* Dry Out the Guessing Game with Functions and Arrays
-* Finalize About Me and Guessing Game, and Deploy
+## Week 2: Object-Oriented Programming and the DOM
 
-Week 2:
+## Week 3: Interactive Web Design with Events and Libraries
 
-Week 3:
-
-Week 4 - Project Week and Presentations
+## Week 4: Project Week and Presentations

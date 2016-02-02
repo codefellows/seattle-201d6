@@ -7,10 +7,8 @@
 *Assistant Instructor*: Paul Laskowski
 
 *TA's*
-- Benton Green *'Self Proclaimed Wizard'*
-- Kris Skelton *'That's Skelton, not Skeleton'*
-- Bella Organ *'Totes'*
-- Dan Schwartz *'O Danny Boy, Oh Boy Oh Boy'*
+- Benton Green
+- Bella Organ
 
 ##Week 1 - Daily Plans
 ###Class 01 (Monday)
@@ -60,7 +58,6 @@
 2. (9:15) Arrays
 3. (9:30) Review of JS book Ch.4 and first part of Ch. 3
 4. (10:00) Introduction to CSS
-
 
 +++BREAK+++
 
