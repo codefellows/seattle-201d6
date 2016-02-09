@@ -96,7 +96,7 @@ We'll also be working on highlighting some common terminology. Those elements wi
 
 ---
 
-* Now we're going to do some stuff with Git and Github. First, navigate into your cloned repo: `cd lab-feb-9`. Take a look at your prompt, and you should see the word 'master' in it, indicating that you are on the master branch of your repo. It is crucial to be able to see your Git status in your prompt. If you cannot, we need mke sure that is set up for you.
+* Meow we're going to do some stuff with Git and Github. First, navigate into your cloned repo: `cd lab-feb-9`. Take a look at your prompt, and you should see the word 'master' in it, indicating that you are on the master branch of your repo. It is crucial to be able to see your Git status in your prompt. If you cannot, we need mke sure that is set up for you.
 
 * The rest of this lab we will do together as a class, starting at 9:30. If you have any time between finishing this material, and 9:30, use it to read the following two articles:
 
