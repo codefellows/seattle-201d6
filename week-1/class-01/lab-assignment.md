@@ -30,11 +30,15 @@ We'll also be working on highlighting some common terminology. Those elements wi
 
 * Before we do anything else, let's make sure that everything is set up correctly. Starting from the assumption that you have Homebrew installed, enter the command ```brew install tree```. You may have already done this, but it does not hurt to do it again. Then enter the terminal command ```tree```  inside of **~/CF/201/2-9-unix-git-practice** and you should see:
 
-```├── lab-feb-9
-│   └── README.md
-├── other-stuff
-├── stuff
-└── yet-more-stuff```
+`├── lab-feb-9`
+
+`│   └── README.md`
+
+`├── other-stuff`
+
+`├── stuff`
+
+`└── yet-more-stuff`
 
 * If this is not what you have, or you are not sure, seek verification from a TA/instructor or from a classmate. Make sure you're set up correctly before proceeding.
 
@@ -42,13 +46,19 @@ We'll also be working on highlighting some common terminology. Those elements wi
 
 * The `tree` command should meow give you this:
 
-```├── lab-feb-9
-│   ├── README.md
-│   ├── app.js
-│   └── index.html
-├── other-stuff
-├── stuff
-└── yet-more-stuff```
+`├── lab-feb-9`
+
+`│   ├── README.md`
+
+`│   ├── app.js`
+
+`│   └── index.html`
+
+`├── other-stuff`
+
+`├── stuff`
+
+`└── yet-more-stuff`
 
 * If this is not what you have, or you are not sure, seek verification from a TA/instructor or from a classmate. Make sure you're set up correctly before proceeding.
 
@@ -56,21 +66,33 @@ We'll also be working on highlighting some common terminology. Those elements wi
 
 * In the **other-stuff** directory, touch files called bernie.md and hillary.md, and in **yet-more-stuff**, touch files called donald.md, ted.md, marco.md. Meow your tree should look like this:
 
-```.
-├── lab-feb-9
-│   ├── README.md
-│   ├── app.js
-│   └── index.html
-├── other-stuff
-│   ├── bernie.md
-│   └── hillary.md
-├── stuff
-│   ├── bill.md
-│   └── opus.md
-└── yet-more-stuff
-    ├── donald.md
-    ├── marco.md
-    └── ted.md```
+`├── lab-feb-9`
+
+`│   ├── README.md`
+
+`│   ├── app.js`
+
+`│   └── index.html`
+
+`├── other-stuff`
+
+`│   ├── bernie.md`
+
+`│   └── hillary.md`
+
+`├── stuff`
+
+`│   ├── bill.md`
+
+`│   └── opus.md`
+
+`└── yet-more-stuff`
+
+`    ├── donald.md`
+
+`    ├── marco.md`
+
+`    └── ted.md`
 
 ---
 
