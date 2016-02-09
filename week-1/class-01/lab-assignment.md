@@ -30,8 +30,7 @@ We'll also be working on highlighting some common terminology. Those elements wi
 
 * Before we do anything else, let's make sure that everything is set up correctly. Starting from the assumption that you have Homebrew installed, enter the command ```brew install tree```. You may have already done this, but it does not hurt to do it again. Then enter the terminal command ```tree```  inside of **~/CF/201/2-9-unix-git-practice** and you should see:
 
-```.
-├── lab-feb-9
+```├── lab-feb-9
 │   └── README.md
 ├── other-stuff
 ├── stuff
@@ -41,16 +40,15 @@ We'll also be working on highlighting some common terminology. Those elements wi
 
 * We're meow going to copy the index.html and app.js files from yesterday's work in the class repo into our new repo that we just created. To do that we'll need to structure our terminal command `cp thing-to-be-copied place-to-put-it`. Since the two files we want are in a directory at the same level we are in, we need to navigate up with `../` and then back down to get to them. This are going to be kind of long commands... using tab-complete makes it easier... here they are: `cp ../seattle-201d6/week-1/class-01/demo/index.html lab-feb-9` and `cp ../seattle-201d6/week-1/class-01/demo/app.js lab-feb-9`.
 
-* a `tree` command should meow give you this:
+* The `tree` command should meow give you this:
 
-`.
-├── lab-feb-9
+```├── lab-feb-9
 │   ├── README.md
 │   ├── app.js
 │   └── index.html
 ├── other-stuff
 ├── stuff
-└── yet-more-stuff`
+└── yet-more-stuff```
 
 * If this is not what you have, or you are not sure, seek verification from a TA/instructor or from a classmate. Make sure you're set up correctly before proceeding.
 
@@ -78,7 +76,7 @@ We'll also be working on highlighting some common terminology. Those elements wi
 
 * Now we're going to do some stuff with Git and Github. First, navigate into your cloned repo: `cd lab-feb-9`. Take a look at your prompt, and you should see the word 'master' in it, indicating that you are on the master branch of your repo. It is crucial to be able to see your Git status in your prompt. If you cannot, we need mke sure that is set up for you.
 
-***The rest of this lab we will do together as a class, starting at 9:30. If you have any time between finishing this material, and 9:30, use it to read the following two articles:***
+* The rest of this lab we will do together as a class, starting at 9:30. If you have any time between finishing this material, and 9:30, use it to read the following two articles:
 
 [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
 
