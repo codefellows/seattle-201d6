@@ -1,8 +1,9 @@
 ## Class 3 (Week 1, Wednesday)
 
 * 1:00p: Announcements & Remarks
-  * What to do about Presidents' Day?
+  * What to do about Presidents' Day? (Mon 2/15)
   * Lab starting time
+  * Socrata event on 1st floor @ noon tomorrow
   * Pre-work
   * Developer mentality
     * Attention to detail + skimming general stuff
