@@ -12,9 +12,9 @@
 //  Randomly deals five cards
 
 function dealcards() {
-if ( gamestatus == 0 ) {    //  Player has flipped his unwanted cards
-        gamestatus = 1;
-    }
+  if ( gamestatus == 0 ) {    //  Player has flipped his unwanted cards
+    gamestatus = 1;
+  }
     else {
         gamestatus = 0;         //  This is a new hand, so do some stuff
 
