@@ -2,7 +2,7 @@
 
 * 1:00p: Announcements & Remarks
   * What to do about Presidents' Day? (Mon 2/15)
-    * Just treat Monday like a normal day
+    * **Just treat Monday like a normal day**
     * Plan to make up lab and class on Saturday 2/20
     * Plan to make up lab and class on Sunday 2/21
     * Shift everything one day later; doing so would move the last day of class to Monday 3/7
