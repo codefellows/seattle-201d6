@@ -1,4 +1,4 @@
-## Class 3 (Week 1, Thursday)
+## Class 4 (Week 1, Thursday)
 
 * 1:00p: Announcements & Remarks
   * What to do about Presidents' Day? (Mon 2/15)
