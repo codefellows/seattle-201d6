@@ -100,3 +100,6 @@ function scopeTest(potato) {
 }
 
 console.log('Outside of the function, I cannot see the local variable y: ' + y);
+
+scopeTest();
+scopeTest('delicious');
