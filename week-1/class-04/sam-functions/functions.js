@@ -29,9 +29,13 @@ function woo() {    // This is the function declaration
 // In those cases, the functions are declared with PARAMETERS and are called with ARGUMENTS.
 
 // Declared with three parameters
-// function clue(who, where, weapon) {
-//   console.log('The murder was committed by ' + who + ' in the ' + where + ' with the ' + weapon + '.');
-// }
+var who = 'Bella';
+var where = 'bus';
+var weapon = 'icy glare';
+
+function clue(who, where, weapon) {
+  console.log('The murder was committed by ' + who + ' in the ' + where + ' with the ' + weapon + '.');
+}
 
 // Called with three arguments
 // clue('Benton', 'bathroom', 'CSS');
@@ -42,10 +46,10 @@ function woo() {    // This is the function declaration
 
 // Note that we can also pass in the values of externally declared variables when the function is called:
 
-// var murderer = 'Colonel Mustard';
-// var crimeScene = 'library';
-// var toolOfDeath = 'candlestick';
-//
+var murderer = 'Colonel Mustard';
+var crimeScene = 'library';
+var toolOfDeath = 'candlestick';
+
 // clue(murderer, crimeScene, toolOfDeath);
 
 // ++++++++++++++++++++++++++++++++++++++++
@@ -53,15 +57,15 @@ function woo() {    // This is the function declaration
 // Getting values out of functions (p.94)
 
 // What if we want the function to return information to the code that called it? For that, we use a 'return' statement.
-
-// function mathsAreHard(numOne, numTwo, numThree) {
-//   console.log('numOne is ' + numOne);
-//   console.log('numTwo is ' + numTwo);
+// var sum;
+function mathsAreHard(numOne, numTwo, numThree) {
+  // console.log('numOne is ' + numOne);
+  // console.log('numTwo is ' + numTwo);
   // console.log('numThree is ' + numThree);
-  // var sum = numOne + numTwo + numThree;
+  var sum = numOne + numTwo + numThree;
   // console.log('The sum of these numbers is ' + sum);
-  // return sum;
-// }
+  return 'wizard';
+}
 
 // mathsAreHard(2, 5, 9);
 
@@ -82,3 +86,17 @@ function woo() {    // This is the function declaration
 // }
 
 // console.log(mathsGetHarder(9, 5, 3) + ' is the output of mathsGetHarder(9, 5, 3)');
+
+
+var x = 3;
+
+function scopeTest(potato) {
+  console.log('I can see that the global variable x is 3... see: ' + x)
+  var y = 9999;
+  var x = 5;
+  console.log('I can also see my local variable y is 9999: ' + y);
+  console.log('potato is ' + potato);
+  return 'turd burglar';
+}
+
+console.log('Outside of the function, I cannot see the local variable y: ' + y);
