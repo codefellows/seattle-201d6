@@ -37,7 +37,7 @@ Write a function called **multiply()** that takes in two numbers as arguments an
 
 ---
 #### Problem 3
-Write a function called **sumAndMultiply()** that takes in THREE numbers as arguments and then returns two values: the sum of those numbers and the product of those numbers. Use your existing sum() and product() functions to do these calculations, and be sure to turn off their console.log()s by commenting them out. Have this function do a console.log() of the numbers, the sum, and the product with two separate messages that exactly follows the examples below and uses the values that were input into the function:
+Write a function called **sumAndMultiply()** that takes in THREE numbers as arguments and then returns two values in an array: the sum of those numbers and the product of those numbers. Use your existing sum() and product() functions to do these calculations, and be sure to turn off their console.log()s by commenting them out. Have this function do a console.log() of the numbers, the sum, and the product with two separate messages that exactly follows the examples below and uses the values that were input into the function:
 
 "4 and 7 and 5 sum to 16."
 
