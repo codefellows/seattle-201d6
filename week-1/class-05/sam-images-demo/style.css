@@ -1,0 +1,12 @@
+* {
+  background-color: #ddd;
+  color: blue;
+  font-family: Arial, sans-serif;
+  font-size: 1.2em;
+}
+
+img {
+    border: 1px solid blue;
+    border-radius: 4px;
+    padding: 5px;
+}
