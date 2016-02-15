@@ -7,7 +7,7 @@ Today in lab you will create a new GitHub repo, solve a lot of little code probl
 
 Here are some things to keep in mind:
 
-* Place no function calls in your code. Everything should be run by hand from the console.
+* Place no function calls in your code, unless it is inside another function. Everything should be run by hand from the console.
 * You will be recording a lot of information in your README file, so it might be handy to have a Markdown reference handy so that you can make it look nice.
 * Create a new branch for each code problem, and merge that branch into *master* when it is completed. Don't forget to pull the new master branch from GitHub into your local master branch each time.
 
