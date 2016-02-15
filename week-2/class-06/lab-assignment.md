@@ -70,3 +70,10 @@ We're now going to put all of this output into the browser window. First, do the
 * Create four more of these JS statements that have unique variable names and correspond to the other remaining 'ans' tags.
 * In the HTML file, inside of the five remaining \<p> tags with the "ques" IDs, write the first sentence of the five problems above, in this format: Problem 1: Write a function called sum() that takes in two numbers as arguments and then returns the sum of those numbers.
 * As we did on Friday's lab, take your console.log() messages and put those into the \<p> tags in the browser window by using the textContent property.
+
+---
+# Pair Programming
+
+This is pretty basic, just some additional practice on GitHub flow with a partner. Fork and clone each other's repos from today and take a look each other's code. Create a branch called 'comments', and go in to the HTML and JS files and leave a few comments for your partner about their code, like "That's a good variable name" or "Your code is exactly the same as mine" or whatever. Also, put a sentence in the README file indicating that you've reviewed the code in this repo.
+
+Next, **a-c-p** your branch and make a pull request (PR) to your partner. Have your partner review the PR, look at the individual comments in the 'Files Changed' tab, and then close your PR *without* accepting it. Be mindful of the notifications you receive from GitHub in this process.
