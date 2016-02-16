@@ -60,7 +60,6 @@ Ballard
 - 4:00pm
 - ...
 - 1:00am
-- 2:00am
 
 ## User Stories (MVP)
  - As a user, I want a webpage that displays individual store data for pizza3001, so that I can be informed about how to run my business
