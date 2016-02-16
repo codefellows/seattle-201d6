@@ -1,8 +1,8 @@
 ## Class 7 (Week 2, Tuesday)
 
 * 1:00p: Announcements
-  * Guest lecture today at ??? from Jonathan Reasor (instructor candidate)
-    * We'll have a feedback mechanism for you at
+  * Guest lecture Thursday at 3:30 from Jonathan Reasor (instructor candidate)
+    * We'll have a feedback mechanism for you
     * Function declarations vs. function expressions
   * Plan for the evolution of our projects
     * Today: updated data, constructor functions, data into a table rather than a list
@@ -10,7 +10,7 @@
 
 * 1:10p: Q&A on projects so far
 
-* 1:30p: HTML tables overview (Sam)
+* 1:30p: HTML tables overview (Duncan)
 
 *2:30p: Break*
 
