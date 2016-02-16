@@ -1,5 +1,5 @@
 # Week 2 Project: pizza3001
-### A Pizza Odyssey... from the Future!
+### A Cheese Odyssey... from the Future!
 
 In class, we learned how to model an entity in JavaScript using objects. Now, it's your turn to start building an application that models the problem domain below.
 
