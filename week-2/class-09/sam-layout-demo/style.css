@@ -1,0 +1,29 @@
+* {
+  border: 1px dashed black;
+  padding: 3px;
+}
+
+body {
+    background-color: gray;
+}
+
+/*p {
+   display: inline-block;
+}*/
+
+.two {
+  display: inline;
+}
+
+.green {
+  color: green;
+}
+
+img {
+  width: 50px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+}
