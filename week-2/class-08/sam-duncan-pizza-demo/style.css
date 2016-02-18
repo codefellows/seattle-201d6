@@ -1,0 +1,17 @@
+* {
+  background-color: gray;
+}
+
+table, tr, td {
+  background-color: green;
+  border: 5px solid blue;
+  border-radius: 80px;
+  padding: 20px
+}
+
+td {
+  border-radius: 25px;
+  color: red;
+  background-color: white;
+  font-family: sans-serif;
+}
