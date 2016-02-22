@@ -18,7 +18,7 @@
 5. Open the files with conflicts in your _text editor_.
 6. In each file with conflict delete the code that is unwanted.
   * Delete the lines that say `<<< HEAD`, `====`, and `>>> master`
-  * Delete lines from `master` or your `branch_name` that are unwatned.
+  * Delete lines from `master` or your `branch_name` that are unwanted.
   ```javascript
  <<<<<<<<<<< HEAD 
    this is were the conflicting code from your branch is
