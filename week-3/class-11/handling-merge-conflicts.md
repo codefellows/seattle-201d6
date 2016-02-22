@@ -7,7 +7,7 @@
 ### Step by Step Solution
 1. Navigate to your project in your shell (*the command line*).
   * `$ cd /path/to/your/project`
-2. Make sure you are in the correct branch
+2. Make sure you are in the correct branch.
  * `$ git branch`  
   _git will list local branches and put a * infront of the branch you are in_
 3. Make sure you have notthing to commit. If you have un commited changes, commit them.
