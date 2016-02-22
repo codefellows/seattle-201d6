@@ -15,7 +15,7 @@
   _nothing to commit, working directory clean_
 4. Update local copy of origin repository
  * `$ git fetch origin`  
-5. Merge `orign/master` into your local branch called `branch_name`.
+5. Merge local copy of `origin/master` into your local branch called `branch_name`.
   * `$ git merge origin/master`  
    *git will tell you what files have failed to automaticly merge* 
 6. Open the files with conflicts in your _text editor_.
