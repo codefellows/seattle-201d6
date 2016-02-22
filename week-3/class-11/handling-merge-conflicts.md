@@ -10,7 +10,7 @@
 2. Make sure you have notthing to commit. If you have un commited changes, commit them.
  * `$ git status`  
   _nothing to commit, working directory clean_
-3. Update code with origin
+3. Update local reposity with origin repository
  * `$ git fetch origin`  
 4. Merge `master` into your `branch_name`.
   * `$ git merge master`  
