@@ -12,8 +12,8 @@
   _nothing to commit, working directory clean_
 3. Update local reposity with origin repository
  * `$ git fetch origin`  
-4. Merge `master` into your `branch_name`.
-  * `$ git merge master`  
+4. Merge `orign/master` into your local branch called `branch_name`.
+  * `$ git merge origin/master`  
    *git will tell you what files have failed to automaticly merge* 
 5. Open the files with conflicts in your _text editor_.
 6. In each file with conflict delete the code that is unwanted.
