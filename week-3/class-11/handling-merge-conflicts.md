@@ -10,19 +10,13 @@
 2. Make sure you have notthing to commit. If you have un commited changes, commit them.
  * `$ git status`  
   _nothing to commit, working directory clean_
-3. Switch to `master` branch.
- * `$ git checkout master`  
-  _Switched to branch 'master'_
-4. Sync local `local/master` with `origin/master`.
-  * `$ git pull origin master`  
-5. Switch to your `branch name`.
-  * `$ git checkout <branch_name>`  
-    *Switched to branch 'branch_name'*
-6. Merge `master` into your `branch_name`.
+3. Update code with origin
+ * `$ git fetch origin`  
+4. Merge `master` into your `branch_name`.
   * `$ git merge master`  
    *git will tell you what files have failed to automaticly merge* 
-7. Open the files with conflicts in your _text editor_.
-8. In each file with conflict delete the code that is unwanted.
+5. Open the files with conflicts in your _text editor_.
+6. In each file with conflict delete the code that is unwanted.
   * Delete the lines that say `<<< HEAD`, `====`, or `>>> master`
   * Delete lines from `master` or your `branch_name` that are unwatned.
   ```javascript
@@ -32,13 +26,13 @@
    this is were the conflicting code from the master branch is
  >>>>>>>>>>> master 
 ``` 
-9. **_RUN YOUR CODE_**.
+7. **_RUN YOUR CODE_**.
  * **This is possibly the most important step!**
  * **Just becuse you "handled" your merge conflict does not mean your haven't broken your app.**
-10. Add your changes and commit.
+8. Add your changes and commit.
   * `$ git add .`
   * `$ git commit -m  "handled merge conflict from master"`
-11. Push to your `branch_name` on origin.
+9. Push to your `branch_name` on origin.
   * `$ git push origin <branch_name>`
-12. **Your _Pull Request_ should be able to merge!**
+10. **Your _Pull Request_ should be able to merge!**
  
