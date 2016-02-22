@@ -1,8 +1,8 @@
 # Handling Merge Conflicts
 ### Issue
-* Some one on your project has merged a **_Pull Request_** into `master`
-* You push your code to your `branch_name` and open a **_Pull Request_**
-* _GitHub_ informs you your code can not automaticly merge into `master`
+* Some one on your project has merged a **_Pull Request_** into the `master` branch.
+* You push your code to your remote branch named `branch_name` and open a **_Pull Request_** to the `master` branch.
+* _GitHub_ informs you your code can not automaticly merge into the `master` branch.
 
 ### Step by Step Solution
 1. Navigate to your project in your shell (*the command line*).
@@ -15,7 +15,7 @@
   _nothing to commit, working directory clean_
 4. Update local copy of origin repository
  * `$ git fetch origin`  
-5. Merge `orign/master` into your local branch called `branch_name`.
+5. Merge local copy of `origin/master` into your local branch called `branch_name`.
   * `$ git merge origin/master`  
    *git will tell you what files have failed to automaticly merge* 
 6. Open the files with conflicts in your _text editor_.
