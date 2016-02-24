@@ -24,9 +24,9 @@
   * Delete lines from `master` or your `branch_name` that are unwanted.
   ```javascript
  <<<<<<<<<<< HEAD 
-   this is were the conflicting code from your branch is
+   this is where the conflicting code from your branch is
  ===========
-   this is were the conflicting code from the master branch is
+   this is where the conflicting code from the master branch is
  >>>>>>>>>>> master 
 ``` 
 8. **_RUN YOUR CODE_**.
