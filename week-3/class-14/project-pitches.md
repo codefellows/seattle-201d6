@@ -64,6 +64,13 @@ Choose a Pokemon
   - Matches you to a Pokemon or Pokemons
   - Quizzy!
 
+
+
+
+
+
+  
+
 Pet Friendly Rentals [301-level... do it there!!!!]
  - Sorting options based on pet type/size
  - Amount of deposit
