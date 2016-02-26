@@ -5,11 +5,15 @@
   - https://www.youtube.com/watch?v=9jK-NcRmVcw
   - Comments on Rick's presentation yesterday?
 
-2. Code 301 preview & alphabet soup
+2. CSS Animations & Transforms
 
-3. jQuery preview (Duncan)
+3. HTML5 Layout - Ch.17 in the HTML book (Sam)
 
-4. Q&A on any leftover topics?
+4. Code 301 preview & alphabet soup (Sam & Duncan)
+
+5. jQuery preview (Duncan)
+
+6. Q&A on any leftover topics?
 
 +++BREAK+++
 
